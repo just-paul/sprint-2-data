@@ -1,0 +1,15 @@
+
+Master data frame
+added a year column and added category column (opm or foreign)
+	
+EDA on OPM
+percent (%) opm artist that made it to the top 200 atleast once. [2017,2018,2019,2020]
+
+Comparison of all the audio features of top 100 opm songs per year using the mean value (based on streams) [2017, 2018, 2019, 2020]
+
+percentage (%) streamers that listened to the opm genre at least once per year [2017, 2018, 2019, 2020]; verified by getting the top 3 songs of the top 3 opm artist on highest year and getting the 7 day average.
+	
+EDA on foreign artist
+Comparison of all the audio features of top 100 opm songs per year using the mean value (based on streams) [2017, 2018, 2019, 2020]
+	
+genres trend per year [2017, 2018, 2019, 2020] opm artist only
